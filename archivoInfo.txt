@@ -1,0 +1,3 @@
+Me he bajado el codigo para poder trabajar sobre el para la base de datos Alumno.
+Ya he generado el codigo sql para esa base de datos.
+Esta tarde/noche voy a crear el nuevo repositorio para el trabajo y lo subo para qe lo veas
